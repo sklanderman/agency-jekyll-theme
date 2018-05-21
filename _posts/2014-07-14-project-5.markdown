@@ -3,7 +3,7 @@ title: Applied Calculus
 subtitle: Instructor & Curriculum Development
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2015-09-01
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
