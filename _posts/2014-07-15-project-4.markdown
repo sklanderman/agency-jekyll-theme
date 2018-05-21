@@ -1,9 +1,9 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Differential Equations
+subtitle: Instructor
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2015-05-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
