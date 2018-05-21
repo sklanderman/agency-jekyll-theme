@@ -1,9 +1,9 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Elementary Math for Teachers
+subtitle: Instructor
 layout: default
 modal-id: 6
-date: 2015-09-19
+date: 2016-01-19
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
