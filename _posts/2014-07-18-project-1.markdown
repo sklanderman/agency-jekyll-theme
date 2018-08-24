@@ -1,6 +1,6 @@
 ---
 title: College Algebra
-subtitle: Curriculum Development
+subtitle: Instructor & Curriculum Development
 layout: default
 modal-id: 1
 date: 2018-01-18
