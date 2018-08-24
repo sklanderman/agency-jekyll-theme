@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2015-09-01
 img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+thumbnail: coffee5.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
