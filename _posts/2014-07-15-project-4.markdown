@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2015-05-15
 img: treehouse.png
-thumbnail: coffee4.jpg
+thumbnail: coffee3.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
