@@ -3,11 +3,11 @@ title: Applied Calculus
 subtitle: Instructor & Curriculum Development
 layout: default
 modal-id: 5
-date: 2015-09-01
+date: 2015-10-01
 img: startup-framework.png
 thumbnail: coffee4.jpg
 alt: image-alt
-project-date: April 2014
+project-date: January 2014
 client: Start Bootstrap
 category: Web Development
 description: As an instructor for this course, I designed all lessons based on given curriculum lecturing three days per week; wrote, administered, and graded all exams; and provided tutoring services to undergraduate students enrolled in math classes ranging from college algebra to differential equations.
