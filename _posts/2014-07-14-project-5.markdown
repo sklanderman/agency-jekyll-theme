@@ -8,11 +8,13 @@ thumbnail: coffee4.jpg
 date1: Fall 2014,
 date2: Spring 2015,
 date3: Fall 2015
-
+supportingurl1: /img/portfolio/MTH124SyllabusFall2014.pdf
+supportingurl2: /img/portfolio/MTH124SyllabusSpring2015.pdf
+supportingurl3: /img/portfolio/MTH124SyllabusFall2015.pdf
 
 ---
 
-As an instructor for this course, I designed all lessons based on given curriculum lecturing three days per week; wrote, administered, and graded all exams; and provided tutoring services to undergraduate students enrolled in math classes ranging from college algebra to differential equations.  See an example of my teaching syllabus below.
+As an instructor for this course, I designed all lessons based on given curriculum and wrote, administered, and graded all exams.  You can see a subset of my teaching syllabi below.
 
 On the curriculum development side, I also created tools to aid Teaching Assistants for this course.  I designed group work and offered options for student engagement in the classroom by expanding the lecture resources in order to support inexperienced instructors.
 
