@@ -7,9 +7,8 @@ date: 2016-01-19
 thumbnail: coffee2.jpg
 alt: image-alt
 project-date: Fall 2014
-clienturl: http://www.structur3d.io/
-projecturl: http://demos3dp.nfshost.com/
-project-date: Fall 2014
+supportingurl: http://www.structur3d.io/
+supportingtext: Sample Syllabus
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
