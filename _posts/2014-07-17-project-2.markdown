@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2017-01-17
 thumbnail: coffee5.jpg
-date1: Fall 2016
+date1: Fall 2016,
 date2: Spring 2017
 supportingurl1: /img/portfolio/299_005_Olson_syllabusFall2016.pdf
 supportingurl2: /img/portfolio/299_005_Klanderman_SyllabusSpring2017.pdf
