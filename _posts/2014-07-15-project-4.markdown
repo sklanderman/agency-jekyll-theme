@@ -5,10 +5,9 @@ layout: default
 modal-id: 4
 date: 2015-05-15
 thumbnail: coffee3.jpg
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+date1: Summer 2015
+supportingurl1: /img/portfolio/MTH 235-102SyllabusSummer2015.pdf
 
 ---
 
-Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+As an instructor for this course, I created a syllabus, designed all lessons, and wrote, administered, and graded all exams.  You can find my teaching syllabus below.
