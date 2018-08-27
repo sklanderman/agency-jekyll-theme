@@ -4,9 +4,7 @@ subtitle: Project
 layout: default
 modal-id: 3
 date: 2014-09-01
-img: golden.png
 thumbnail: coffee6.jpg
-alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
