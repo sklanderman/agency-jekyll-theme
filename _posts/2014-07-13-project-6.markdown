@@ -5,14 +5,11 @@ layout: default
 modal-id: 6
 date: 2016-01-19
 thumbnail: coffee2.jpg
-<<<<<<< HEAD
 alt: image-alt
 project-date: Fall 2014
 clienturl: http://www.structur3d.io/
 projecturl: http://demos3dp.nfshost.com/
-=======
 project-date: April 2014
->>>>>>> 4e1bd8a770ed089766aeeede76b0917b9833ec0e
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
