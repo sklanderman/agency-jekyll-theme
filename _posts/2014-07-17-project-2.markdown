@@ -5,11 +5,10 @@ layout: default
 modal-id: 2
 date: 2017-01-17
 thumbnail: coffee5.jpg
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-
+date1: Fall 2016
+date2: Spring 2017
+supportingurl1: /img/portfolio/299_005_Olson_syllabusFall2016.pdf
+supportingurl2: /img/portfolio/299_005_Klanderman_SyllabusSpring2017.pdf
 
 ---
-
-Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+The Transitions to Proof course at MSU is taught in a flipped classroom environment, relying heavily on group work and a secondary teaching assistant.  As an instructor for this course, I designed all lessons based on given curriculum and wrote, administered, and graded all exams.  You can find the teaching syllabi for the classes for which I was in both primary and secondary instructor roles below.
