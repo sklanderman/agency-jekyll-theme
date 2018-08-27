@@ -5,10 +5,8 @@ layout: default
 modal-id: 3
 date: 2014-09-01
 thumbnail: coffee6.jpg
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+date1: Project
+supportingurl1: https://docs.google.com/forms/d/e/1FAIpQLScAASpWQ5uGzTZe9IBb_NyynuyU6m4mgfIa_eGvTEIXzlHubQ/viewform?usp=sf_link
 
 ---
-
-Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+The Certification in College Teaching at Michigan State University is a program designed for graduate students and postdocs in order to help them reflect on and improve their teaching.  In addition to the project portfolio found below, completion of the CCT also includes professional development workshops, coursework related to pedagogy at the college level, and a mentored teaching project.
