@@ -5,9 +5,13 @@ layout: default
 modal-id: 5
 date: 2015-10-01
 thumbnail: coffee4.jpg
-project-date: January 2014
+project-date: Fall 2014, Spring 2015, Fall 2015 (X2)
 client: Start Bootstrap
-category: Web Development
-description: As an instructor for this course, I designed all lessons based on given curriculum lecturing three days per week; wrote, administered, and graded all exams; and provided tutoring services to undergraduate students enrolled in math classes ranging from college algebra to differential equations.
+supportingurl:
+supportingtext: Sample Syllabus
+description: As an instructor for this course, I designed all lessons based on given curriculum lecturing three days per week; wrote, administered, and graded all exams; and provided tutoring services to undergraduate students enrolled in math classes ranging from college algebra to differential equations.  See an example of my teaching syllabus below.
+
+On the curriculum development side, I also created tools to aid Teaching Assistants for this course.  I designed group work and offered options for student engagement in the classroom by expanding the lecture resources in order to support inexperienced instructors. 
+
 
 ---
