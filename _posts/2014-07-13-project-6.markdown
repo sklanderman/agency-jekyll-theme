@@ -5,10 +5,8 @@ layout: default
 modal-id: 6
 date: 2016-01-19
 thumbnail: coffee2.jpg
-project-date: Fall 2014
-supportingurl: img/portfolio/EMfT.pdf
-supportingtext: Sample Syllabus
+date1: Spring 2016
+supportingurl1: /img/portfolio/MTH201SyllabusSpring2016.pdf
 
 ---
-
-Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+As an instructor for this course, I created a syllabus, designed all lessons, and wrote, administered, and graded all exams.  You can find my teaching syllabus below.
