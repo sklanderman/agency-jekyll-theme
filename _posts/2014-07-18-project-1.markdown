@@ -11,6 +11,6 @@ supportingurl1: /img/portfolio/MTH 103-063 Syllabus.pdf
 supportingurl2: /img/portfolio/A4.pdf
 
 ---
-As an instructor for this course, I designed all lessons based on given curriculum and wrote, administered, and graded all exams.  You can find my teaching syllabus below.
+As an instructor for this course, I designed all lessons based on given curriculum and wrote, administered, and graded all exams.  You can find my teaching syllabus below; all other course materials can be found on the D2L class page.
 
 As a part of a larger MSU initiative to redesign College Algebra, I also developed function-based curriculum to create an adaptive learning-based course, which included writing content, collaborating with administrators and technology staff, and selecting, organizing, and creating assessments.  See an example of that content below.
