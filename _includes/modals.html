@@ -14,16 +14,15 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <a href="{{ post.projecturl }}" target="_blank"><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-
                                 <li>Date:
                                     <strong><a>{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>
-                                    <strong><a href="{{ post.supportingurl}}" target="_blank">{{ post.category }}</a>
+                                <li>Materials:
+                                    <strong><a href="{{ post.supportingurl }}" target="_blank">{{ post.supportingtext }}</a>
                                     </strong>
                                 </li>
                             </ul>

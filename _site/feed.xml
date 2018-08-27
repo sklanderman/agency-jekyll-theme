@@ -5,17 +5,17 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Jan 2018 07:31:06 -0800</pubDate>
-    <lastBuildDate>Sun, 07 Jan 2018 07:31:06 -0800</lastBuildDate>
+    <pubDate>Mon, 27 Aug 2018 11:58:57 -0600</pubDate>
+    <lastBuildDate>Mon, 27 Aug 2018 11:58:57 -0600</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>Curriculum Development</title>
+        <title>College Algebra</title>
         <description>
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1/</guid>
+        <pubDate>Thu, 18 Jan 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/web%20development/2018/01/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2018/01/18/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -23,12 +23,12 @@
       </item>
     
       <item>
-        <title>Escape</title>
+        <title>Transitions to Proof</title>
         <description>
 </description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2/</guid>
+        <pubDate>Tue, 17 Jan 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/web%20development/2017/01/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/01/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -36,12 +36,23 @@
       </item>
     
       <item>
-        <title>Golden</title>
+        <title>Elementary Math for Teachers</title>
         <description>
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3/</guid>
+        <pubDate>Tue, 19 Jan 2016 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2016/01/19/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/19/project-6/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Applied Calculus</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/web%20development/2015/10/01/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2015/10/01/project-5/</guid>
         
         
         <category>Web Development</category>
@@ -49,12 +60,12 @@
       </item>
     
       <item>
-        <title>Treehouse</title>
+        <title>Differential Equations</title>
         <description>
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4/</guid>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/web%20development/2015/05/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2015/05/15/project-4/</guid>
         
         
         <category>Web Development</category>
@@ -62,25 +73,12 @@
       </item>
     
       <item>
-        <title>Round Icons</title>
+        <title>Certification in College Teaching</title>
         <description>
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Startup Framework</title>
-        <description>
-</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5/</guid>
+        <pubDate>Mon, 01 Sep 2014 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/web%20development/2014/09/01/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/09/01/project-3/</guid>
         
         
         <category>Web Development</category>
