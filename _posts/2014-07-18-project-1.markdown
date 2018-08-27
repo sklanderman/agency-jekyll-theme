@@ -5,10 +5,12 @@ layout: default
 modal-id: 1
 date: 2018-01-18
 thumbnail: coffee1.jpg
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+date1: Fall 2018,
+date2: Textbook Content Sample
+supportingurl1: /img/portfolio/MTH 103-063 Syllabus.pdf
+supportingurl2: /img/portfolio/A4.pdf
 
 ---
+As an instructor for this course, I designed all lessons based on given curriculum and wrote, administered, and graded all exams.  You can find my teaching syllabus below.
 
-Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+As a part of a larger MSU initiative to redesign College Algebra, I also developed function-based curriculum to create an adaptive learning-based course, which included writing content, collaborating with administrators and technology staff, and selecting, organizing, and creating assessments.  See an example of that content below.
